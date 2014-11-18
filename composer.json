@@ -3,9 +3,10 @@
 	"description": "The Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
+	"type": "project",
 	"require": {
 		"laravel/framework": "4.2.*",
-		"barryvdh/laravel-debugbar": "~1.8"
+		"fideloper/proxy": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
